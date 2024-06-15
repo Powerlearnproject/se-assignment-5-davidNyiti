@@ -7,6 +7,8 @@ Answer the following questions based on your understanding of the installation a
 
  Questions:
 
+ my computer does not have minimum requirement to download window 11 operating system
+
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
